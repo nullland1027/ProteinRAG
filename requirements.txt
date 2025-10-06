@@ -1,0 +1,10 @@
+pymilvus>=2.3.4
+milvus>=2.3.4
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+biopython>=1.81
+transformers>=4.21.0
+torch>=1.12.0
+scikit-learn>=1.1.0
+python-dotenv>=1.0.0

@@ -1,0 +1,14 @@
+.milvus_lite.db.lock
+.vscode
+.idea
+__pycache__
+DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.exe
+*.dll
+.env
+*.db
