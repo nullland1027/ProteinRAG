@@ -12,3 +12,4 @@ DS_Store
 *.dll
 .env
 *.db
+.DS_Store
